@@ -3,7 +3,7 @@
   "short_name": "Portal Medis",
   "start_url": "https://www.portalmedis.com/",
   "display": "standalone",
-  "background_color": "#fff",
+  "background_color": "#99b787",
   "theme_color": "#99b787",
   "description": "Portal Kesehatan Akurat dan Terpercaya",
   "icons": [{
